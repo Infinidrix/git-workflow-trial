@@ -1,2 +1,2 @@
-# .gitignore where we keep a list of directories and files we don't want to track in gitignore
+# .gitignore: where we keep a list of directories and files that we don't want git to track
 .vscode
